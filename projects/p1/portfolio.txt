@@ -1,0 +1,8 @@
+btc 700
+ltc 24
+eth 200
+dai 100000
+mkr 36
+xlm 100000
+bch 700
+gnt 10000
